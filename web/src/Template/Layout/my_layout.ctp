@@ -9,6 +9,7 @@
     <?= $this->Html->css('styles.css') ?>
 </head>
 <body>
+    <?= $this->element('my_header') ?>
     <section class="container">
         <?= $this->fetch('content')?>
     </section>
