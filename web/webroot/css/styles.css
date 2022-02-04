@@ -61,3 +61,19 @@ button {
     width: 50px;
     padding: 5px;
 }
+
+.error-message {
+    margin-left: 100px;
+    color: tomato;
+}
+
+.message {
+    text-align : center;
+    padding: 5px;
+    color: green;
+    background: lavender;
+}
+
+.hidden {
+    display: none;
+}
